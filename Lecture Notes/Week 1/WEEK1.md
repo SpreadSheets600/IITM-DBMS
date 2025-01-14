@@ -1,6 +1,6 @@
 ## 📖 Quick Summary
 
-<aside>
+
 **Key Takeaways** :
 
 - DBMS evolved from physical record-keeping to modern database systems, offering superior data management capabilities over traditional methods
@@ -9,7 +9,7 @@
 - SQL serves as the primary language for database operations, though it's often integrated with other programming languages
 - Transaction management ensures data integrity through ACID properties and concurrency control
 - Modern database systems support various data models and architectures to meet different organizational needs
-</aside>
+
 
 ## 📒 Notes
 
@@ -43,7 +43,7 @@
     - 2000 : E-commerce boomed - NoSQL emerged for unstructured data management.
     - 2010 : Data Science gained prominence.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b644516a-7804-47e9-9455-0a04e3cecf0b/406471bc-51cc-4f9c-94f6-582de76a0cef/image.png)
+![image](https://github.com/user-attachments/assets/35429d56-51ce-41ef-98e3-d04df39a4570)
 
 ### Book Keeping ( Physical Storage )
 
@@ -98,7 +98,8 @@
 - Logical Level : describes how data is stored in database and the relationships among the data fields, schemas and constraints
 - View Level : describes how the data is presented to end users, showing only relevant portions of the database while hiding complexity
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b644516a-7804-47e9-9455-0a04e3cecf0b/cfc5e5c6-f1f2-43a8-beb5-4452043dc0d6/image.png)
+![image](https://github.com/user-attachments/assets/cc868b83-11e3-47f6-8716-cb001a9b7320)
+
 
 ### Schema And Instance
 
@@ -182,7 +183,8 @@ updating of data.
 - Optimization - finding the most efficient way to execute a query by analyzing different execution plans and choosing the one with lowest cost
 - Evaluation - executing the optimized query plan to retrieve or modify data from the database
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b644516a-7804-47e9-9455-0a04e3cecf0b/b5805e6e-b411-4606-a7e5-8a1e203bfed1/image.png)
+![image](https://github.com/user-attachments/assets/9636d235-f69e-47d0-bb2d-e245a6974362)
+
 
 ### Transaction Management
 
