@@ -31,11 +31,16 @@ Solutions to assignments are included for each corresponding week.
 
 ## 🗂️ Navigation Links
 
+### GRPA
+- [Week 2 GRPA](./GRPA/Week%202)
+
 ### Notes
 - [Week 1 Notes](./Lecture%20Notes/Week%201)
+- [Week 2 Notes](./Lecture%20Notes/Week%201) ( Soon, Just Lazy )
 
 ### Sollutions
 - [Week 1 Sollutions](./Graded%20Assesment/W1-GA.md)
+- [Week 2 Sollutions](./Graded%20Assesment/W2-GA.md)
 ---
 
 ## 💬 Contact
