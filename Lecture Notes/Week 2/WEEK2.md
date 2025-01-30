@@ -72,7 +72,8 @@
 - It must have **unique values** and cannot contain any **duplicate** values.
 - A **primary key** **cannot be NULL**, as it needs to provide a valid, unique identifier for every record.
 
-![image.png](attachment:ba9c6ddb-5031-4323-a6ec-addf0bc19ba9:image.png)
+![image (1)](https://github.com/user-attachments/assets/8126db2e-7a4d-4cb8-8420-569b2ff6800a)
+
 
 1. **Alternate Key**
 - The keys that are not selected as a primary key in a table is called an alternate key.
@@ -90,11 +91,11 @@
 1. **Compound Key**
 - It consists of more than one attribute to uniquely identify an entity occurrence.
 
-![image.png](attachment:e5d65158-744e-42ed-8a1c-dda8163182c8:image.png)
+![image (2)](https://github.com/user-attachments/assets/ae76fd33-e972-4d6b-b63a-8c8a433d7e2a)
 
-![image.png](attachment:c9810eb7-bc53-4805-9eae-9d2cd9ee4d2a:image.png)
+![image (3)](https://github.com/user-attachments/assets/ac4c0a81-3258-40ca-b6d3-c3b8c8397653)
 
-![image.png](attachment:24bcc9bc-e0cf-4579-b264-4602ed651f98:image.png)
+![image (4)](https://github.com/user-attachments/assets/95f285a7-a32a-442a-aa95-b524a894da7f)
 
 ## Relational Query Languages
 
@@ -334,7 +335,8 @@ from <table_1>, <table_2>
 where <t1>.<attribute> = <t2>.<attribute>
 ```
 
-![image.png](attachment:3b25fa30-373a-4fb4-958a-0819f73bd99b:image.png)
+![image (5)](https://github.com/user-attachments/assets/1e66205f-ef26-4552-9da4-5064dbb4e5e0)
+
 
 ### Natural Join
 
