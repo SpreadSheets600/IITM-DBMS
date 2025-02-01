@@ -36,7 +36,7 @@ Solutions to assignments are included for each corresponding week.
 
 ### Notes
 - [Week 1 Notes](./Lecture%20Notes/Week%201)
-- [Week 2 Notes](./Lecture%20Notes/Week%201) ( Soon, Just Lazy )
+- [Week 2 Notes](./Lecture%20Notes/Week%201)
 
 ### Sollutions
 - [Week 1 Sollutions](./Graded%20Assesment/W1-GA.md)
