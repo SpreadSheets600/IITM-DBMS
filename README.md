@@ -31,6 +31,12 @@ Solutions to assignments are included for each corresponding week.
 
 ## 🗂️ Navigation Links
 
+### GA
+- [Week 1 GA](./Graded%20Assesment/W1-GA.md)
+- [Week 2 GA](./Graded%20Assesment/W2-GA.md)
+- [Week 3 GA](./Graded%20Assesment/W3-GA.pdf)
+- [Week 4 GA](./Graded%20Assesment/W4-GA.pdf)
+
 ### GRPA
 - [Week 2 GRPA](./GRPA/Week%202)
 
@@ -38,9 +44,6 @@ Solutions to assignments are included for each corresponding week.
 - [Week 1 Notes](./Lecture%20Notes/Week%201)
 - [Week 2 Notes](./Lecture%20Notes/Week%201)
 
-### Sollutions
-- [Week 1 Sollutions](./Graded%20Assesment/W1-GA.md)
-- [Week 2 Sollutions](./Graded%20Assesment/W2-GA.md)
 ---
 
 ## 💬 Contact
