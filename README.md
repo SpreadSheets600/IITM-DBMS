@@ -39,6 +39,7 @@ Solutions to assignments are included for each corresponding week.
 
 ### GRPA
 - [Week 2 GRPA](./GRPA/Week%202)
+- [Week 3 GRPA](./GRPA/Week%203)
 
 ### Notes
 - [Week 1 Notes](./Lecture%20Notes/Week%201)
