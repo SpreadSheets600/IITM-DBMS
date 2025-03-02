@@ -36,10 +36,14 @@ Solutions to assignments are included for each corresponding week.
 - [Week 2 GA](./Graded%20Assesment/W2-GA.md)
 - [Week 3 GA](./Graded%20Assesment/W3-GA.pdf)
 - [Week 4 GA](./Graded%20Assesment/W4-GA.pdf)
+- [Week 5 GA](./Graded%20Assesment/W5-GA.pdf)
+- [Week 6 GA](./Graded%20Assesment/W6-GA.pdf)
+- [Week 7 GA](./Graded%20Assesment/W7-GA.pdf)
 
 ### GRPA
 - [Week 2 GRPA](./GRPA/Week%202)
 - [Week 3 GRPA](./GRPA/Week%203)
+- [Week 7 GRPA](./GRPA/Week%207)
 
 ### Notes
 - [Week 1 Notes](./Lecture%20Notes/Week%201)
