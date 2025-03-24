@@ -1,4 +1,4 @@
-📚 IITM - DS - DBMS Solutions
+# 📚 IITM - DS - DBMS Solutions
 
 Hello there!  
 **SOHAM** here. Welcome to my repository for the **IITM Database Management Systems** course. This repository contains my **lecture notes**, **assignment solutions**, and other resources for DBMS, organized for easy navigation and study.
