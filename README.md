@@ -39,6 +39,10 @@ Solutions to assignments are included for each corresponding week.
 - [Week 5 GA](./Graded%20Assesment/W5-GA.pdf)
 - [Week 6 GA](./Graded%20Assesment/W6-GA.pdf)
 - [Week 7 GA](./Graded%20Assesment/W7-GA.pdf)
+- [Week 8 GA](./Graded%20Assesment/W8-GA.pdf)
+- [Week 9 GA](./Graded%20Assesment/W9-GA.pdf)
+- [Week 10 GA](./Graded%20Assesment/W10-GA.pdf)
+- [Week 11 GA](./Graded%20Assesment/W11-GA.pdf)
 
 ### GRPA
 - [Week 2 GRPA](./GRPA/Week%202)
@@ -46,10 +50,25 @@ Solutions to assignments are included for each corresponding week.
 - [Week 7 GRPA](./GRPA/Week%207)
 
 ### Notes
-- [Week 1 Notes](./Lecture%20Notes/Week%201)
-- [Week 2 Notes](./Lecture%20Notes/Week%201)
+- [ Important Videos ](./Notes/Videos.md)
+- [ Additional Notes ](./Notes/Additional%20Notes)
+- [ Imporant Questions ](./Notes/Important%20Questions)
+- [Week 1 Notes](./Notes/Week%201)
+- [Week 2 Notes](./Notes/Week%201)
+- [ Week 5 Notes](./Notes/Week%205.pdf)
+- [ Week 6 Notes](./Notes/Week%206.pdf)
+- [ Week 7 Notes](./Notes/Week%207.pdf)
+- [ Week 8 Notes](./Notes/Week%208.pdf)
+- [ Week 9 Notes](./Notes/Week%209.pdf)
+- [ Week 10 Notes](./Notes/Week%2010.pdf)
+- [ Week 11 Notes Part 1 ](./Notes/WEEK%2011%20Part%201.pdf)
+- [ Week 11 Notes Part 2 ](./Notes/WEEK%2011%20Part%202.pdf)
 
 ---
+
+## ♥ Special Mentions
+
+Special thanks to Samar, Vassan and Aashutosh for sharing all the resources :)
 
 ## 💬 Contact
 
